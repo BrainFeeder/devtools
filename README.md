@@ -6,7 +6,7 @@ A list of useful devtools and plugins for the IMD dev community.
 
 - [PhpStorm](phpstorm.md)
 - [Visual Studio Code](visual_studio_code.md)
-- [Aptana]
+- [Aptana](http://www.aptana.com)
 
 ## Browsers
 
